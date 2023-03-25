@@ -1,6 +1,0 @@
-[book]
-authors = ["Hannah Sophie Heinrichs"]
-language = "en"
-multilingual = false
-src = "src"
-title = "My first mdbook"
